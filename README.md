@@ -1,6 +1,6 @@
 # surepass_project(flask rest_api)
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 # Authenticatin has been done using flask_token
 # following steps for access:
 
